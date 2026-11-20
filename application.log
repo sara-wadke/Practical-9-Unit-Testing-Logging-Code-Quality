@@ -1,0 +1,7 @@
+2026-11-20 13:19:58,077 - DEBUG - Processing order: ORD101
+2026-11-20 13:19:58,078 - INFO - Order ORD101 processed successfully
+2026-11-20 13:19:58,078 - DEBUG - Processing order: ORD102
+2026-11-20 13:19:58,078 - WARNING - Order amount is below 500
+2026-11-20 13:19:58,078 - INFO - Order ORD102 processed successfully
+2026-11-20 13:19:58,078 - DEBUG - Processing order: ORD103
+2026-11-20 13:19:58,078 - ERROR - Invalid order amount: -100
